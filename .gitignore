@@ -1,0 +1,14 @@
+# secrets
+.env
+*.pem
+*.key
+authorized_key.json
+
+# venv
+.venv/
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
